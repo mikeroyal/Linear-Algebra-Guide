@@ -14,33 +14,33 @@
 
 2. [Defintions](https://github.com/mikeroyal/Linear-Algebra-Guide#Defintions)
 
-    - [i. Vector operations](https://github.com/mikeroyal/Linear-Algebra-Guide#vector-operations)
-    - [ii. Matrix operations](https://github.com/mikeroyal/Linear-Algebra-Guide#matrix-operations)
-    - [iii. Matrix-vector product](https://github.com/mikeroyal/Linear-Algebra-Guide#matrix-vector-product)
-    - [iv. Linear transformations](https://github.com/mikeroyal/Linear-Algebra-Guide#linear-transformations)
-    - [ v. Fundamental vector spaces](https://github.com/mikeroyal/Linear-Algebra-Guide#)
+    - i. Vector operations
+    - ii. Matrix operations
+    - iii. Matrix-vector product
+    - iv. Linear transformations
+    - v. Fundamental vector spaces
 
 3. [Computational Linear Algebra](https://github.com/mikeroyal/Linear-Algebra-Guide#Computational-Linear-Algebra)
 
-    - [i. Solving systems of equations](https://github.com/mikeroyal/Linear-Algebra-Guide#solving-systems-of-equations)
-    - [ii. Systems of equations as matrix equations](https://github.com/mikeroyal/Linear-Algebra-Guide#systems-of-equations-as-matrix-equations)
+    - i. Solving systems of equations
+    - ii. Systems of equations as matrix equations
 
 4. [Computing the Inverse of a Matrix](https://github.com/mikeroyal/Linear-Algebra-Guide#Computing-the-Inverse-of-a-Matrix)
 
-    - [i. Using row operations](https://github.com/mikeroyal/Linear-Algebra-Guide#using-row-operations)
-    - [ii. Using elementary matrices](https://github.com/mikeroyal/Linear-Algebra-Guide#using-elementary-matrices)
-    - [iii. Transpose of a Matrix](https://github.com/mikeroyal/Linear-Algebra-Guide#transpose-of-a-matrix)
+    - i. Using row operations
+    - ii. Using elementary matrices
+    - iii. Transpose of a Matrix
 
 5. [Other Linear Topics](https://github.com/mikeroyal/Linear-Algebra-Guide#Other-Linear-Topics)
 
-    - [i. Basis](https://github.com/mikeroyal/Linear-Algebra-Guide#basis)
-    - [ii. Matrix representations of linear transformations](https://github.com/mikeroyal/Linear-Algebra-Guide#matrix-representations-of-linear-transformations)
-    - [iii. Dimension and Basis for Vector Spaces](https://github.com/mikeroyal/Linear-Algebra-Guide#dimension-and-basis-for-vector-spaces)
-    - [iv. Row space, columns space, and rank of a matrix](https://github.com/mikeroyal/Linear-Algebra-Guide#row-space-columns-space-and-rank-of-a-matrix)
-    - [v. Invertible matrix theorem](https://github.com/mikeroyal/Linear-Algebra-Guide#invertible-matrix-theorem)
-    - [vi. Determinants](https://github.com/mikeroyal/Linear-Algebra-Guide#determinants)
-    - [vii. Eigenvalues and eigenvectors](https://github.com/mikeroyal/Linear-Algebra-Guide#eigenvalues-and-eigenvectors)
-    - [viii. Linear Regression](https://github.com/mikeroyal/Linear-Algebra-Guide#linear-regression)
+    - i. Basis
+    - ii. Matrix representations of linear transformations
+    - iii. Dimension and Basis for Vector Spaces
+    - iv. Row space, columns space, and rank of a matrix
+    - v. Invertible matrix theorem
+    - vi. Determinants
+    - vii. Eigenvalues and eigenvectors
+    - viii. Linear Regression
 
 6. [MATLAB](https://github.com/mikeroyal/Linear-Algebra-Guide#MATLAB)
 
@@ -83,7 +83,7 @@
 #  Defintions
 [Back to the Top](https://github.com/mikeroyal/Linear-Algebra-Guide#table-of-contents)
 
-## i. Vector operations
+### i. Vector operations
 
 We now define the math operations for vectors. The operations we can perform on vectors ~u = (u1, u2, u3) and ~v = (v1, v2, v3) are: addition, subtraction, scaling, norm (length), dot product, and cross product:
 
