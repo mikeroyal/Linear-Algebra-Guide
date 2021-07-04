@@ -83,7 +83,7 @@
 #  Defintions
 [Back to the Top](https://github.com/mikeroyal/Linear-Algebra-Guide#table-of-contents)
 
-### i. Vector operations
+## i. Vector operations
 
 We now define the math operations for vectors. The operations we can perform on vectors ~u = (u1, u2, u3) and ~v = (v1, v2, v3) are: addition, subtraction, scaling, norm (length), dot product, and cross product:
 
@@ -108,7 +108,7 @@ The dot product and the cross product of two vectors can also be described in te
 We denote by A the matrix as a whole and refer to its entries as aij .The mathematical operations defined for matrices are the following:
 
 • determinant (denoted det(A) or |A|)
-Note that the matrix product is not a commutative operation: AB 6= BA.
+Note that the matrix product is not a commutative operation.
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/124398167-2ad3e880-dcc9-11eb-9455-9b0c3c6171cd.png">
@@ -126,7 +126,7 @@ Note that the matrix product is not a commutative operation: AB 6= BA.
 
 ### iii. Matrix-vector product
 
-The matrix-vector product is an important special case of the matrixmatrix product.
+The matrix-vector product is an important special case of the matrix product.
 
 There are two fundamentally different yet equivalent ways to interpret the matrix-vector product. In the column picture, (C), the multiplication of the
 matrix A by the vector ~x produces a linear combination of the columns of the matrix: ~y = A~x = x1A[:,1] + x2A[:,2], where A[:,1] and A[:,2] are the first and second columns of the matrix A. In the row picture, (R), multiplication of the matrix A by the vector ~x produces a column vector with coefficients equal to the dot products of rows of the matrix with the vector ~x.
