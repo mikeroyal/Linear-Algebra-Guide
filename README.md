@@ -1,5 +1,5 @@
  <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/124398145-00822b00-dcc9-11eb-9519-6b724eb81b52.png">
+ <img src="https://user-images.githubusercontent.com/45159366/124399561-ffed9280-dcd0-11eb-8ad3-716616175a16.png">
   <br />
   Linear Algebra Guide
 </h1>
@@ -70,8 +70,6 @@
 
 [The Math of Data Science: Linear Algebra Course on edX](https://www.edx.org/course/math-of-data-science-linear-algebra)
 
-[Linear Algebra Full Course for Beginners to Experts - YouTube](Linear Algebra Full Course for Beginners to Experts - YouTube)
-
 [Linear Algebra in Twenty Five Lectures | UC Davis](https://www.math.ucdavis.edu/~linear/linear.pdf)
 
 [Linear Algebra | UC San Diego Extension](https://extension.ucsd.edu/courses-and-programs/linear-algebra-1)
@@ -89,8 +87,7 @@
 
 We now define the math operations for vectors. The operations we can perform on vectors ~u = (u1, u2, u3) and ~v = (v1, v2, v3) are: addition, subtraction, scaling, norm (length), dot product, and cross product:
 
-The dot product and the cross product of two vectors can also be described in terms of the angle θ between the two vectors. The formula for the dot
-product of the vectors is ~u · ~v = k~ukk~vk cos θ. We say two vectors ~u and ~v are orthogonal if the angle between them is 90◦. The dot product of orthogonal vectors is zero: ~u · ~v = k~ukk~vk cos(90◦) = 0. The norm of the cross product is given by k~u×~vk = k~ukk~vk sin θ. The cross product is not commutative: ~u ×~v 6= ~v × ~u, in fact ~u ×~v = −~v × ~u.
+The dot product and the cross product of two vectors can also be described in terms of the angle θ between the two vectors. 
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/124398163-26a7cb00-dcc9-11eb-9b70-3452d50762c5.png">
@@ -100,7 +97,7 @@ product of the vectors is ~u · ~v = k~ukk~vk cos θ. We say two vectors ~u and 
 **Vector Operations. Source: [slideserve](https://www.slideserve.com/krystal/streaming-simd-extension-sse)**
 
 <p align="center">
- <img src="(https://user-images.githubusercontent.com/45159366/124398165-28718e80-dcc9-11eb-9fab-258fc4b6ab96.png">
+ <img src="https://user-images.githubusercontent.com/45159366/124399554-fbc17500-dcd0-11eb-96b0-c31df664425a.png">
   <br />
 </p>
 
