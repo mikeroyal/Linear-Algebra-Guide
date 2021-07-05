@@ -154,7 +154,7 @@ The matrix-vector product is used to define the notion of a linear transformatio
   <br />
 </p>
 
-**Linear Transformations. Source:[slideserve](https://www.slideserve.com/hall-cobb/chap-6-linear-transformations)**
+**Linear Transformations. Source: [slideserve](https://www.slideserve.com/hall-cobb/chap-6-linear-transformations)**
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/124398184-40e1a900-dcc9-11eb-90e9-36031124610f.png">
@@ -200,14 +200,6 @@ The matrix-vector product is used to define the notion of a linear transformatio
 
 **Systems of equations as matrix equations. Source: [mathisfun](https://www.mathsisfun.com/algebra/systems-linear-equations-matrices.html?ref=binfind.com%2Fweb)**
 
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/124398358-3247c180-dcca-11eb-967c-992764686a0d.png">
-  <br />
-</p>
-
-**Matrix Equations and Systems of Linear Equations. Source: [ppt-online](https://ppt-online.org/241576)**
-
-
 # Computing the Inverse of a Matrix
 [Back to the Top](https://github.com/mikeroyal/Linear-Algebra-Guide#table-of-contents)
 
@@ -252,7 +244,7 @@ Finding the inverse of a matrix is to use the Transpose method.
   <br />
 </p>
 
-**Transpose of a Matrix. Source:[slideserve](https://www.slideserve.com/jaimin/matrix-inverse-and-transpose)**
+**Transpose of a Matrix. Source: [slideserve](https://www.slideserve.com/jaimin/matrix-inverse-and-transpose)**
 
 # Other Linear Topics
 [Back to the Top](https://github.com/mikeroyal/Linear-Algebra-Guide#table-of-contents)
@@ -284,7 +276,7 @@ Intuitively, a basis is any set of vectors that can be used as a coordinate syst
   <br />
 </p>
 
-**Matrix representations of linear transformations. Source:[slideserve](https://www.slideserve.com/sylvie/two-dimensional-geometric-transformations)**
+**Matrix representations of linear transformations. Source: [slideserve](https://www.slideserve.com/sylvie/two-dimensional-geometric-transformations)**
 
 ### iii. Dimension and Basis for Vector Spaces
 
@@ -313,7 +305,7 @@ Recall the fundamental vector spaces for matrices that we defined in Section II-
   <br />
 </p>
 
-**Row space and Column space. Source:[slideshare](http://www.slideshare.net/RonakMachhi/null-space-rank-and-nullity-theorem)**
+**Row space and Column space. Source: [slideshare](http://www.slideshare.net/RonakMachhi/null-space-rank-and-nullity-theorem)**
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/124398681-d9792880-dccb-11eb-8c6f-0c483cf860a4.png">
@@ -342,7 +334,7 @@ The determinant of a matrix, denoted det(A) or |A|, is a special way to combine 
   <br />
 </p>
 
-**Determinant of a Square Matrix. Source:[stackexchange](https://math.stackexchange.com/questions/1354148/proving-the-formula-for-finding-the-determinant-of-a-square-matrix)**
+**Determinant of a Square Matrix. Source: [stackexchange](https://math.stackexchange.com/questions/1354148/proving-the-formula-for-finding-the-determinant-of-a-square-matrix)**
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/124398705-fa417e00-dccb-11eb-8d1f-0cbf01d77f3d.png">
