@@ -1,5 +1,5 @@
  <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/124399561-ffed9280-dcd0-11eb-8ad3-716616175a16.png">
+ <img src="https://user-images.githubusercontent.com/45159366/124998626-9a1b4680-e001-11eb-9a49-1e97604e8a10.png">
   <br />
   Linear Algebra Guide
 </h1>
