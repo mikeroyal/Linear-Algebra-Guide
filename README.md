@@ -161,7 +161,7 @@ The matrix-vector product is used to define the notion of a linear transformatio
   <br />
 </p>
 
-**Elementary matrices for linear transformations in R^2. Source:[](https://www.quora.com/What-is-a-linear-transformation)**
+**Elementary matrices for linear transformations in R^2. Source: [Quora](https://www.quora.com/What-is-a-linear-transformation)**
 
 ### v. Fundamental vector spaces
 
